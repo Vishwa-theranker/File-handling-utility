@@ -18,3 +18,4 @@ The program uses:
 - **Files API**: To read all bytes for file content.
   
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/e6dc6b70-79f6-4eed-8d39-028a9e13ccb6)
