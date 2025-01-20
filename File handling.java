@@ -3,10 +3,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-/**
- * FileHandlingUtility
- * A Java program to demonstrate reading, writing, and modifying text files.
- */
+
 public class Main {
 
     public static void main(String[] args) {
@@ -45,10 +42,6 @@ public class Main {
         scanner.close();
     }
 
-    /**
-     * Reads the content of a file and prints it to the console.
-     * @param filePath the path of the file to read.
-     */
     public static void readFile(String filePath) {
         try {
             String content = new String(Files.readAllBytes(Paths.get(filePath)));
@@ -59,11 +52,7 @@ public class Main {
         }
     }
 
-    /**
-     * Writes the specified content to a file. If the file doesn't exist, it will be created.
-     * @param filePath the path of the file to write to.
-     * @param content the content to write.
-     */
+
     public static void writeFile(String filePath, String content) {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
             writer.write(content);
@@ -73,11 +62,7 @@ public class Main {
         }
     }
 
-    /**
-     * Appends the specified content to a file. If the file doesn't exist, it will be created.
-     * @param filePath the path of the file to modify.
-     * @param content the content to append.
-     */
+    
     public static void modifyFile(String filePath, String content) {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath, true))) {
             writer.write(content);
