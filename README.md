@@ -1,8 +1,8 @@
 **File-handling-utility**
 
-COMPANY: CODTECH IT SOLUTION 
-NAME: VISHVESHWARAN S 
-INTERN ID: CT08LKB 
+COMPANY: CODTECH IT SOLUTION                                                                      
+NAME: VISHVESHWARAN S                                                 
+INTERN ID: CT08LKB                                                              
 DOMAIN: JAVA  
 DURATION: JANUARY 10 2025 TO FEBRUARY 10 2025
 MENTOR: NEELA SANTHOSH
@@ -19,4 +19,8 @@ The program uses:
 - **Files API**: To read all bytes for file content.
   
 OUTPUT:
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/e6dc6b70-79f6-4eed-8d39-028a9e13ccb6)
