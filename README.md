@@ -1,7 +1,7 @@
 **File-handling-utility**
 
 COMPANY: CODTECH IT SOLUTION                                                                      
-NAME: VISHVESHWARAN S                                                 
+NAME: VISHVESHWARAN S                                                  
 INTERN ID: CT08LKB                                                              
 DOMAIN: JAVA  
 DURATION: JANUARY 10 2025 TO FEBRUARY 10 2025                                                                
